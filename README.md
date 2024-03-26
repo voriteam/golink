@@ -1,5 +1,8 @@
 # Golink (go/link)
 
+> ⚠️This fork is intended for internal Vori usage. We have customize the extension to work for 
+our [Trotto server](https://github.com/voriteam/go-links).
+
 A URL shortener for creating concise, memorable short links, suitable for organization-scoped use, such as in companies or schools.
 
 https://github.com/nownabe/golink/assets/1286807/9337f9f8-b3de-40bd-879c-f21b8d441604

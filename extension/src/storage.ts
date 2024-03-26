@@ -19,6 +19,9 @@ export async function getGolinkUrl(): Promise<string | null> {
     return url;
   }
 
+  // Use Vori's default
+  return 'https://golinks.vori.com'
+
   console.debug(`[getGolinkUrl] url not found in storage`);
   return null;
 }
